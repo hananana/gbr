@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/urfave/cli"
+	"gopkg.in/src-d/go-git.v4"
 	"os"
 )
 
